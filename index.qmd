@@ -2,5 +2,5 @@
 format: html
 ---
 
-<div class="full-page-image" style="background-image: url('images/coverreal.png');"></div>
+<div class="full-page-image" style="background-image: url('media/coverreal.png');"></div>
 

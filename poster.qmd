@@ -1,0 +1,7 @@
+---
+title: "Poster"
+format: html
+editor: visual
+---
+
+![](media/poster.png){fig-align="center"}
