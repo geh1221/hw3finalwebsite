@@ -1,0 +1,17 @@
+---
+title: Exploring Our Poster's Design Changes
+---
+
+We decided to make many design changes based on [![the video](https://www.youtube.com/watch?v=1RwJbhkCA58)](https://www.youtube.com/watch?v=1RwJbhkCA58) linked in the homework instruction, and chapters 2, 3, 4, 5, 6, and 8, in the textbook. We believe the changes are quite evident after looking at the poster, but will highlight them below.
+
+### Original Poster
+
+![](media/original_poster.png)
+
+We can see that while this poster has a lot of information, there isn't one place that your eye is drawn to. You have to dig to find out what the most important result is from the study. As per the video, with the new poster, we wanted to change the point of focus and make it much easier and more logical for the reader to gain insight as to what the project found.
+
+### Updated Poster
+
+![](media/poster.png)
+
+This new poster highlights the main take away from the study and logically places the rest of the information around the main point to allow for easier reading.

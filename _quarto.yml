@@ -24,6 +24,8 @@ website:
         text: References
       - href: poster.qmd
         text: Poster
+      - href: design-updates.qmd
+        text: Design Updates
       
 
 format:
